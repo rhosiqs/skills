@@ -1,6 +1,7 @@
 ---
 name: svg
-description: Always accompany every answer with an SVG rendering of the result. Use on every response, whatever the topic or format, even when the user doesn't mention SVG or visuals.
+description: Present the result as an SVG rendering. Manual invocation only — use only when the user explicitly invokes /svg. Do not trigger automatically, even when a visual might help.
+disable-model-invocation: true
 ---
 
 # SVG
