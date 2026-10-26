@@ -1,6 +1,6 @@
 ---
 name: svg-pptx
-description: Convert an SVG (typically one produced by the svg skill) into a .pptx whose every element is a native, editable PowerPoint object (shapes, text boxes, lines, freeforms), never a flattened picture. Defaults to 16:9; if the SVG does not fit 16:9 cleanly, asks the user which handling to use via a popup. Use whenever the user wants an SVG, diagram, chart or illustration as PowerPoint/slide/pptx content, or asks to make an SVG editable in PowerPoint, even if they don't say "svg".
+description: Convert an SVG (typically one produced by the svg skill) into a .pptx whose every element is a native, editable PowerPoint object (shapes, text boxes, lines, freeforms), never a flattened picture. Defaults to 16:9; if the SVG does not fit 16:9 cleanly, asks the user which handling to use via a popup. Use only when the user invokes /svg-pptx, or explicitly asks to export or convert an SVG, diagram, chart or illustration into a presentation, slides or .pptx (e.g. "export this as a presentation", "turn this diagram into editable slides"). Do not trigger for general requests to create a slide deck.
 ---
 
 # SVG → editable PPTX
