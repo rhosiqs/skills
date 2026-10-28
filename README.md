@@ -12,15 +12,15 @@
 
 Skills I built to make AI responses more accurate or to support specific tasks. Feel free to use or modify them.
 
-| Skill | Main purpose | Recommended use cases | Category | Details |
-|---|---|---|---|---|
-| `be-concise` | Force minimal, no-filler answers. | Quick questions where only the answer matters. Invoke via `/be-concise`. | AI Constraint | [![Look for detail](https://img.shields.io/badge/-Look_for_detail-ffdf80?style=for-the-badge)](./be-concise/) |
-| `academic-translator` | Translate academic text with accurate terminology and register. Especially for zh-TW and en-US. | Translating or polishing papers, abstracts, and proposals. | Academic | [![Look for detail](https://img.shields.io/badge/-Look_for_detail-ffdf80?style=for-the-badge)](./academic-translator/) |
-| `svg` | Render the result as an SVG vector. | Manual only: invoke via `/svg`. | Tool | [![Look for detail](https://img.shields.io/badge/-Look_for_detail-2ea44f?style=for-the-badge)](./svg/) |
-| `svg-pptx` | Convert an SVG into fully editable PowerPoint shapes. | Invoke via `/svg-pptx`, or ask to export a diagram or chart as a presentation. | Tool | [![Look for detail](https://img.shields.io/badge/-Look_for_detail-2ea44f?style=for-the-badge)](./svg-pptx/) |
-| `obsidian-github-markdown` | Convert Obsidian Markdown to GitHub-Flavored Markdown. | Publishing Obsidian notes to GitHub. | Tool | [![Look for detail](https://img.shields.io/badge/-Look_for_detail-2ea44f?style=for-the-badge)](./obsidian-github-markdown/) |
-| `obsidian-to-portable-markdown` | Convert Obsidian Markdown to Markdown that renders in any previewer. | Exporting Obsidian notes to non-GitHub or mixed renderers. | Tool | [![Look for detail](https://img.shields.io/badge/-Look_for_detail-2ea44f?style=for-the-badge)](./obsidian-to-portable-markdown/) |
-| `photo-grading` | Score and critique a photo like a competition judge. | Getting a rating or composition feedback on a photo. | Daily | [![Look for detail](https://img.shields.io/badge/-Look_for_detail-2ea44f?style=for-the-badge)](./photo-grading/) |
+| Skill | Main purpose | Recommended use cases | Category | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|---|---|---|---|:---:|
+| `be-concise` | Force minimal, no-filler answers. | Quick questions where only the answer matters. Invoke via `/be-concise`. | AI Constraint | <a href="./be-concise/"><img src="https://img.shields.io/badge/-Details-ffdf80?style=for-the-badge" alt="Details" height="40"></a> |
+| `academic-translator` | Translate academic text with accurate terminology and register. Especially for zh-TW and en-US. | Translating or polishing papers, abstracts, and proposals. | Academic | <a href="./academic-translator/"><img src="https://img.shields.io/badge/-Details-ffdf80?style=for-the-badge" alt="Details" height="40"></a> |
+| `svg` | Render the result as an SVG vector. | Manual only: invoke via `/svg`. | Tool | <a href="./svg/"><img src="https://img.shields.io/badge/-Details-2ea44f?style=for-the-badge" alt="Details" height="40"></a> |
+| `svg-pptx` | Convert an SVG into fully editable PowerPoint shapes. | Invoke via `/svg-pptx`, or ask to export a diagram or chart as a presentation. | Tool | <a href="./svg-pptx/"><img src="https://img.shields.io/badge/-Details-2ea44f?style=for-the-badge" alt="Details" height="40"></a> |
+| `obsidian-github-markdown` | Convert Obsidian Markdown to GitHub-Flavored Markdown. | Publishing Obsidian notes to GitHub. | Tool | <a href="./obsidian-github-markdown/"><img src="https://img.shields.io/badge/-Details-2ea44f?style=for-the-badge" alt="Details" height="40"></a> |
+| `obsidian-to-portable-markdown` | Convert Obsidian Markdown to Markdown that renders in any previewer. | Exporting Obsidian notes to non-GitHub or mixed renderers. | Tool | <a href="./obsidian-to-portable-markdown/"><img src="https://img.shields.io/badge/-Details-2ea44f?style=for-the-badge" alt="Details" height="40"></a> |
+| `photo-grading` | Score and critique a photo like a competition judge. | Getting a rating or composition feedback on a photo. | Daily | <a href="./photo-grading/"><img src="https://img.shields.io/badge/-Details-2ea44f?style=for-the-badge" alt="Details" height="40"></a> |
 
 
 ### Categories
